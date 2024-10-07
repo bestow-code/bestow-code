@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "2VH7V4PJV9.world.bestow.app", "2VH7V4PJV9.world.bestow.app.stg" ,"2VH7V4PJV9.world.bestow.app.dev" ],
+             "components": [
+               {
+                  "/": "/app/*",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               }
+             ]
+           }
+       ]
+   }
+}
